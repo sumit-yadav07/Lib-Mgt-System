@@ -16,14 +16,14 @@ This is a full-stack library management system that allows users to borrow and r
 - **Database**: MongoDB Atlas (Cloud Database)
 - **Deployment**: Local development
   ## Demo
-<img src="demo/Screenshot (6).png" alt="Demo Image 6" width="500"/>
-<img src="demo/Screenshot (7).png" alt="Demo Image 7" width="500"/>
-<img src="demo/Screenshot (8).png" alt="Demo Image 8" width="500"/>
-<img src="demo/Screenshot (9).png" alt="Demo Image 9" width="500"/>
-<img src="demo/Screenshot (10).png" alt="Demo Image 10" width="500"/>
-<img src="demo/Screenshot (11).png" alt="Demo Image 11" width="500"/>
-<img src="demo/Screenshot (12).png" alt="Demo Image 12" width="500"/>
-<img src="demo/Screenshot (13).png" alt="Demo Image 13" width="500"/>
+<img src="demo/Screenshot (6).png" alt="Demo Image 6" width="600"/>
+<img src="demo/Screenshot (7).png" alt="Demo Image 7" width="600"/>
+<img src="demo/Screenshot (8).png" alt="Demo Image 8" width="600"/>
+<img src="demo/Screenshot (9).png" alt="Demo Image 9" width="600"/>
+<img src="demo/Screenshot (10).png" alt="Demo Image 10" width="600"/>
+<img src="demo/Screenshot (11).png" alt="Demo Image 11" width="600"/>
+<img src="demo/Screenshot (12).png" alt="Demo Image 12" width="600"/>
+<img src="demo/Screenshot (13).png" alt="Demo Image 13" width="600"/>
 
 ## Setting up the Project
 
